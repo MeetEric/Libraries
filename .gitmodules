@@ -4,3 +4,6 @@
 [submodule "ServiceFabric"]
 	path = ServiceFabric
 	url = https://github.com/MeetEric/meeteric-service-fabric.git
+[submodule "Core"]
+	path = Core
+	url = https://github.com/MeetEric/meeteric-core.git
